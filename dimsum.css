@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+h1 {
+font-family: 'adelle', serif;
+font-style: normal;
+font-weight: Bold;
+font-size: 40px;
+line-height: 50px;
+}
+
+.dimsumtitle{
+  color:#F9F9E8;
+}
+
+p{
+  font-family: 'adelle', serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 29px;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  display:block;
+  margin-block-start:1em;
+  margin-block-end:1em;
+  margin-inline-start:0px;
+  margin-inline-end: 0px;
+}
+
+.paragraph{
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-bottom:10%;
+}
+
+.dimsumcopy{
+  column-count: 3;
+  column-gap: 60px;
+  column-rule: 1px solid #D2523C;
+}
+
+.header{
+  background:#D2523C;
+  padding:20px;
+  text-align:center;
+}
+
+.footer{
+  padding:10px;
+  text-align:center;
+  background:#D2523C;
+}
+
+.footertext{
+  color:#FAFBED;
+  font-size:40px;
+}
